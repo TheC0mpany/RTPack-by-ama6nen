@@ -1,3 +1,5 @@
+# CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/RTPack
+
 # Modified RTPack
 
 ## Features
